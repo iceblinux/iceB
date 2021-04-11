@@ -25,21 +25,21 @@
 
 [Материальный учёт](https://github.com/iceblinux/iceB/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%87%D1%91%D1%82)
 
-Платёжные документы
+[Платёжные документы](https://github.com/iceblinux/iceB/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 
-Заработная плата
+[Заработная плата](https://github.com/iceblinux/iceB/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D0%B0)
 
-Учёт основных средств
+[Учёт основных средств](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D1%85-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2)
 
-Учёт услуг
+[Учёт услуг](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D1%83%D1%81%D0%BB%D1%83%D0%B3)
 
-Учёт кассовых ордеров
+[Учёт кассовых ордеров](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D0%BA%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D1%85-%D0%BE%D1%80%D0%B4%D0%B5%D1%80%D0%BE%D0%B2)
 
-Учёт командировочных расходов
+[Учёт командировочных расходов](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BE%D0%B2)
 
-Учёт путевых листов
+[Учёт путевых листов](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2)
 
-Реестр налоговых накладных
+[Реестр налоговых накладных](https://github.com/iceblinux/iceB/wiki/%D0%A0%D0%B5%D0%B5%D1%81%D1%82%D1%80-%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D1%85-%D0%BD%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D1%85)
 
-Учёт доверенностей
+[Учёт доверенностей](https://github.com/iceblinux/iceB/wiki/%D0%A3%D1%87%D1%91%D1%82-%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9)
 
